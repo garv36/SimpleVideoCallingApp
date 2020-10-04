@@ -7,7 +7,7 @@
     "devStartVIdeoApp": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Garv",
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.5",
